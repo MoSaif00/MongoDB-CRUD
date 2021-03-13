@@ -14,9 +14,7 @@
 
 ## Inspiration
 
-```sh
 [FreeCodeCamp.org](https://www.youtube.com/watch?v=CyTWPr_WwdI)
-```
 
 ## Usage
 
