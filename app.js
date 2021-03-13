@@ -2,7 +2,7 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const path = require('path');
 const db = require('./db');
-const Joi = require('joi');
+
 const app = express();
 app.use(bodyParser.json());
 
